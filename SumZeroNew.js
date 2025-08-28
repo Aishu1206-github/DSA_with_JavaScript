@@ -33,12 +33,12 @@ console.log(result);
 
 //Time complexity - O(n)
 
-// 🔹 using Two-Pointer Approach
+// // 🔹 using Two-Pointer Approach
 
-Idea:
-Keep one pointer at the start (left) and one at the end (right).
-Calculate the sum:
+// Idea:
+// Keep one pointer at the start (left) and one at the end (right).
+// Calculate the sum:
 
-If sum = 0 → return the pair ✅
-If sum > 0 → move right-- (we need a smaller number).
-If sum < 0 → move left++ (we need a bigger number).
+// If sum = 0 → return the pair ✅
+// If sum > 0 → move right-- (we need a smaller number).
+// If sum < 0 → move left++ (we need a bigger number).
