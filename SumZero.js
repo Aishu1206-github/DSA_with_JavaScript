@@ -22,5 +22,5 @@ console.log(result);
 
 
 // result = [-4,4]
-// Time Complexity = O(n2) quadratic time complexity
+// ⏱️ Time Complexity= O(n²) quadratic time complexity
 // (nested loop): checks every possible pair → O(n²).

@@ -1,5 +1,5 @@
-// Another Soln
-// Checking sum Zero 
+// Another Optimized Soln
+// Checking first Pair sum Zero 
 // [-5,-4,-3,-2,0,2,4,6,8]  -- Input
 // [-4,4]  -- Output
 
