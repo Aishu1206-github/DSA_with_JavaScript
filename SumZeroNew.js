@@ -31,14 +31,17 @@ console.log(result);
 // If sum is greater than zero then decrease right by one (right--)
 // IF sum if less than zero them increase left by one (left++)
 
-//Time complexity - O(n)
 
-// // 🔹 using Two-Pointer Approach
 
-// Idea:
-// Keep one pointer at the start (left) and one at the end (right).
-// Calculate the sum:
+// Solution (Two-Pointer Approach):
+// Explanation:
 
-// If sum = 0 → return the pair ✅
-// If sum > 0 → move right-- (we need a smaller number).
-// If sum < 0 → move left++ (we need a bigger number).
+// Place pointers at the start (left) and end (right).
+
+// If sum = 0 → we found the pair ✅
+
+// If sum > 0 → move right pointer left.
+
+// If sum < 0 → move left pointer right.
+
+// ⏱️ Time Complexity: O(n)
