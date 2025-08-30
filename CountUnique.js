@@ -1,7 +1,8 @@
 // Count Unique Numbers
-
 // [1,1,2,2,3,4,4,5,6,7,8,8]    -- Input
 // 8    --Output
+
+// Logic :
 // conditions
 // i=0, j=1
 // arr[i]!=arr[j]

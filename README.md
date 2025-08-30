@@ -21,8 +21,8 @@ I’m building this repo to improve problem-solving skills and help others who a
 *OUTPUT:**  
 [-4,4]
 
-Solution (Nested Loop):  https://github.com/Aishu1206-github/DSA_with_JavaScript/blob/main/SumZero.js
-Solution (Two-Pointer Approach):  https://github.com/Aishu1206-github/DSA_with_JavaScript/blob/main/SumZeroNew.js
+ [*Solution(Nested Loop)*](https://github.com/Aishu1206-github/DSA_with_JavaScript/blob/main/SumZero.js)
+ Solution(Two-Pointer Approach):  https://github.com/Aishu1206-github/DSA_with_JavaScript/blob/main/SumZeroNew.js
 
 
 🎯 Goals
