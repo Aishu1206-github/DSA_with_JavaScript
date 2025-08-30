@@ -13,6 +13,7 @@ function isAnagram(str1, str2) {
     console.log(counter[letter]);  
   }
    console.log(counter);
+   
   for(let items of str2) {
     if(!counter[items]){
       return false;
@@ -23,3 +24,7 @@ return true;
 } 
 const check = isAnagram('hello','llheo');
 console.log(check);
+
+
+
+// ⏱️ Time Complexity: O(n)  Linear time complexity
