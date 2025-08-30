@@ -18,11 +18,11 @@ I’m building this repo to improve problem-solving skills and help others who a
 **Input:**  
 ```js
 [-5, -4, -3, -2, 0, 2, 4, 6, 8]
-*OUTPUT:**  
+**OUTPUT:** 
 [-4,4]
 
- [*Solution(Nested Loop)*](https://github.com/Aishu1206-github/DSA_with_JavaScript/blob/main/SumZero.js)
- Solution(Two-Pointer Approach):  https://github.com/Aishu1206-github/DSA_with_JavaScript/blob/main/SumZeroNew.js
+ Solution(Nested Loop):  SumZero.js
+ Solution(Two-Pointer Approach):  SumZeroNew.js
 
 
 🎯 Goals
