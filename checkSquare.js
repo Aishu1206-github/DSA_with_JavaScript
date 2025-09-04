@@ -1,7 +1,11 @@
 // checking Square in another array
 // arr1=[1,2,3,4] arr2=[1,9,4,16]
+
+// Logic : 
 // if(array1[i])*array1[i]) === array2[j])
 // let isSquare = true
+// else if (j === array.length-1) -- !isSquare =  false
+
 
 function isSquareCheck(array1, array2){
   for(let i=0; i<array1.length;i++){
