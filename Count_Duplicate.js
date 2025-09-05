@@ -12,3 +12,5 @@ function countDup(array){
 }
 const res= countDup([1,1,2,2,2,3,4,5,5,5,5,6,6,7,7,8]);
 console.log(res);
+
+// ⏱️ Time Complexity= O(n) linear time complexity
